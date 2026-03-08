@@ -1,0 +1,10 @@
+Metodo,Modelo,R2
+Divisao Simples (80/20),Ridge,0.731
+Divisao Simples (80/20),Linear SVR,0.7195
+Divisao Simples (80/20),Linear Regression,-0.7997
+K-Fold (5 folds),Ridge,0.731
+K-Fold (5 folds),Linear SVR,0.7211
+K-Fold (5 folds),Linear Regression,-0.7051
+Stratified K-Fold (5 folds),Ridge,0.7325
+Stratified K-Fold (5 folds),Linear SVR,0.7232
+Stratified K-Fold (5 folds),Linear Regression,-0.2176

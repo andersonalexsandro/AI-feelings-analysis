@@ -1,0 +1,10 @@
+Metodo,Modelo,Acuracia,Precisao,Recall,F1
+Divisao Simples (80/20),Linear SVM,0.9403,0.9523,0.9286,0.9403
+Divisao Simples (80/20),Logistic Regression,0.9349,0.9535,0.9158,0.9343
+Divisao Simples (80/20),Multinomial NB,0.931,0.9495,0.912,0.9304
+K-Fold (5 folds),Linear SVM,0.9393,0.9531,0.9263,0.9395
+K-Fold (5 folds),Logistic Regression,0.9331,0.9535,0.9131,0.9328
+K-Fold (5 folds),Multinomial NB,0.9268,0.9474,0.9065,0.9265
+Stratified K-Fold (5 folds),Linear SVM,0.9378,0.9505,0.9261,0.9381
+Stratified K-Fold (5 folds),Logistic Regression,0.9325,0.954,0.9113,0.9321
+Stratified K-Fold (5 folds),Multinomial NB,0.9267,0.9466,0.9071,0.9264
